@@ -167,6 +167,22 @@ a{
     border-left: 6px solid green;
     height: 500px;
   }
+  .frostheave{
+    width: 600px;
+    height: 300px;
+    margin: 10px;
+    border: 4px solid black;
+    background-image: url("/img/boosted.png");
+
+  }
+  .boost{
+    width: 600px;
+    height: 300px;
+    margin: 10px;
+    border: 4px solid black;
+    background-image: url('/img/boosted.png');
+
+  }
 }
 
 
@@ -241,7 +257,23 @@ a{
   .vl {
     border-left: 6px solid green;
     height: 500px;
-}
+ }
+ .frostheave{
+   width: 600px;
+   height: 300px;
+   margin: 10px;
+   border: 4px solid black;
+   background-image: url("/img/boosted.png");
+
+ }
+ .boost{
+   width: 80%;
+   height: 300px;
+   margin: 10px;
+   border: 4px solid black;
+   background-image: url('/img/boosted.png');
+
+ }
 }
 
 
@@ -316,5 +348,21 @@ a{
   .vl {
     border-right: 6px solid green;
     height: 500px;
-}
+ }
+ .frostheave{
+   width: 80%;
+   height: 300px;
+   margin: 10px;
+   border: 4px solid black;
+   background-image: url("/img/boosted.png");
+
+ }
+ .boost{
+   width: 80%;
+   height: 300px;
+   margin: 10px;
+   border: 4px solid black;
+   background-image: url('/img/boosted.png');
+
+ }
 }
